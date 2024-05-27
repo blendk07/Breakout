@@ -1444,10 +1444,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1136267128009551017, guid: e10e77b13ada54e3bb7d53606d66f917, type: 3}
-      propertyPath: m_GravityScale
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1818877264874694003, guid: e10e77b13ada54e3bb7d53606d66f917, type: 3}
       propertyPath: textScore
       value: 
@@ -1456,10 +1452,6 @@ PrefabInstance:
       propertyPath: gameOverPanel
       value: 
       objectReference: {fileID: 34937728}
-    - target: {fileID: 1818877264874694003, guid: e10e77b13ada54e3bb7d53606d66f917, type: 3}
-      propertyPath: livesImage.Array.size
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 1818877264874694003, guid: e10e77b13ada54e3bb7d53606d66f917, type: 3}
       propertyPath: livesImage.Array.data[0]
       value: 
